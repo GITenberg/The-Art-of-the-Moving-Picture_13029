@@ -1,0 +1,34 @@
+_repo: The-Art-of-the-Moving-Picture_13029
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lindsay, Vachel
+    alias: Lindsay, Nicholas Vachel
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '234'
+    url: http://www.gutenberg.org/2009/agents/234
+    wikipedia: http://en.wikipedia.org/wiki/Vachel_Lindsay
+description: '"In the field of film aesthetics, it is the first important American
+  work, still important--The Art of the Moving Picture is astonishing." --Stanley
+  Kauffmann Written in 1915, The Art of the Moving Picture by poet Vachel Lindsay
+  is the first book to treat movies as art. Lindsay writes a brilliant analysis of
+  the early silent films (including several now lost films). He is extraordinarily
+  prescient about the future of moviemaking--particularly about the business, the
+  prominence of technology, and the emergence of the director as the author of the
+  film. From the Trade Paperback edition.'
+gutenberg_bookshelf: Art
+gutenberg_issued: '2004-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion pictures'
+- !lcc 'PN'
+- GITenberg
+title: The Art of the Moving Picture
+url: http://www.gutenberg.org/ebooks/13029
