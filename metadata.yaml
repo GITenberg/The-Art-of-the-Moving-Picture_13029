@@ -1,5 +1,8 @@
 _repo: The-Art-of-the-Moving-Picture_13029
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lindsay, Vachel
@@ -17,6 +20,8 @@ description: '"In the field of film aesthetics, it is the first important Americ
   prescient about the future of moviemaking--particularly about the business, the
   prominence of technology, and the emergence of the director as the author of the
   film. From the Trade Paperback edition.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13029#The-Art-of-the-Moving-Picture
 gutenberg_bookshelf: Art
 gutenberg_issued: '2004-07-26'
 gutenberg_type: Text
